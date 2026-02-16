@@ -4,17 +4,13 @@
 
 ⸻
 
-**🛠 Tools & Technologies Used
+🛠 Tools & Technologies Used
 	•	Python
 	•	Pandas
-	•	NumPy
 	•	Matplotlib
 	•	Google Colab / Jupyter Notebook
-	•	GitHub
 
-⸻
-
-**📂 Dataset Description
+📂 Dataset Description
 
 The dataset contains sales transaction records including:
 	•	Order ID
@@ -26,7 +22,8 @@ The dataset contains sales transaction records including:
 	•	Profit
 	•	Quantity
 	•	Discount
-** 📈 Key Insights
+	
+📈 Key Insights
 	•	The highest performing category is (insert result here).
 	•	The region generating the highest profit is (insert result here).
 	•	Sales show a (increasing/decreasing/stable) trend over time.
